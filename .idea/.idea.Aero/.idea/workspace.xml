@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="920dfe93-f5f3-4473-b0a7-520ae6c75663" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScenesMethods.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Goalkeeper.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/DragPuck.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonsMethods.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PuckImageController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ArrowImage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ArrowSprite.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScenesMethods.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PuckController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Shooting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Aiming.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Goalkeeper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PuckCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PuckBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dragging.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Nsz0tgQ7GJu9XysAD9iPdstKL8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="920dfe93-f5f3-4473-b0a7-520ae6c75663" name="Default Changelist" comment="" />
+      <created>1680467364402</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680467364402</updated>
+      <workItem from="1680467371000" duration="5096000" />
+      <workItem from="1680556968356" duration="301000" />
+      <workItem from="1680720029414" duration="8481000" />
+      <workItem from="1680811886927" duration="4985000" />
+      <workItem from="1681304422422" duration="8536000" />
+      <workItem from="1681331471226" duration="3779000" />
+      <workItem from="1681416554563" duration="3959000" />
+      <workItem from="1681501940215" duration="5505000" />
+      <workItem from="1681764822083" duration="4724000" />
+      <workItem from="1681848142410" duration="7649000" />
+      <workItem from="1682017922108" duration="5708000" />
+      <workItem from="1683054569236" duration="1805000" />
+      <workItem from="1683125539084" duration="6198000" />
+      <workItem from="1683144592024" duration="3898000" />
+      <workItem from="1683301242780" duration="9660000" />
+      <workItem from="1683454484206" duration="12434000" />
+      <workItem from="1683544691442" duration="4816000" />
+      <workItem from="1683785129891" duration="617000" />
+      <workItem from="1684099854257" duration="2005000" />
+      <workItem from="1684184636325" duration="3446000" />
+      <workItem from="1684526009234" duration="39000" />
+      <workItem from="1684672081543" duration="1329000" />
+      <workItem from="1684689234072" duration="25000" />
+      <workItem from="1684879494452" duration="656000" />
+      <workItem from="1684961788253" duration="1384000" />
+      <workItem from="1684999214742" duration="385000" />
+      <workItem from="1685193307265" duration="800000" />
+      <workItem from="1685892177535" duration="666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="566" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1681507487364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="566" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1681507487364" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1684101974473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1684101974473" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1684186308255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1684186308255" />
+  </component>
+</project>
